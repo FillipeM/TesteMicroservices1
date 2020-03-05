@@ -1,0 +1,11 @@
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Consumer\bin\Debug\netcoreapp2.2\Consumer.deps.json
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Consumer\bin\Debug\netcoreapp2.2\Consumer.runtimeconfig.json
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Consumer\bin\Debug\netcoreapp2.2\Consumer.runtimeconfig.dev.json
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Consumer\bin\Debug\netcoreapp2.2\Consumer.dll
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Consumer\obj\Debug\netcoreapp2.2\Consumer.csproj.CoreCompileInputs.cache
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Consumer\obj\Debug\netcoreapp2.2\Consumer.AssemblyInfoInputs.cache
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Consumer\obj\Debug\netcoreapp2.2\Consumer.AssemblyInfo.cs
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Consumer\bin\Debug\netcoreapp2.2\Consumer.pdb
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Consumer\obj\Debug\netcoreapp2.2\Consumer.csprojAssemblyReference.cache
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Consumer\obj\Debug\netcoreapp2.2\Consumer.dll
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Consumer\obj\Debug\netcoreapp2.2\Consumer.pdb

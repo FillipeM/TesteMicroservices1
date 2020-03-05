@@ -1,0 +1,11 @@
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Producer\bin\Debug\netcoreapp2.2\Producer.deps.json
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Producer\bin\Debug\netcoreapp2.2\Producer.runtimeconfig.json
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Producer\bin\Debug\netcoreapp2.2\Producer.runtimeconfig.dev.json
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Producer\bin\Debug\netcoreapp2.2\Producer.dll
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Producer\obj\Debug\netcoreapp2.2\Producer.csprojAssemblyReference.cache
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Producer\obj\Debug\netcoreapp2.2\Producer.csproj.CoreCompileInputs.cache
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Producer\obj\Debug\netcoreapp2.2\Producer.AssemblyInfoInputs.cache
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Producer\obj\Debug\netcoreapp2.2\Producer.AssemblyInfo.cs
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Producer\bin\Debug\netcoreapp2.2\Producer.pdb
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Producer\obj\Debug\netcoreapp2.2\Producer.dll
+C:\Users\fillipe.alves\source\repos\TesteMicroservices1\Producer\obj\Debug\netcoreapp2.2\Producer.pdb

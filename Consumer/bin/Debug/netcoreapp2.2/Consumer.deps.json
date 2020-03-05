@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "1c7842083ff97b7c5b21ed87c1cf8939729dd036"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Consumer/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "kafka-net-core": "1.1.0"
+        },
+        "runtime": {
+          "Consumer.dll": {}
+        }
+      },
+      "kafka-net-core/1.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/kafka-net-core.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consumer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "kafka-net-core/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JhP80tieZaYfa6BvD+veKoM5phEY9JLYA80sHVlOawgJ7CXYBpYVj7Ez2gj8aOMLpmAP3vouSYn4hXzIKVVo8g==",
+      "path": "kafka-net-core/1.1.0",
+      "hashPath": "kafka-net-core.1.1.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    }
+  }
+}
